@@ -2,7 +2,7 @@
 
 
 ![cherry blossom](https://github.com/hoshikuro22/hoshikuro22/assets/89105589/adcaed9a-8ae7-4099-ad9e-b089c575b7b8)
-<imh src="https://giphy.com/embed/NKicvKt6iisXS" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/cherry-blossom-NKicvKt6iisXS">via GIPHY</a></p>
+<img src="https://giphy.com/embed/NKicvKt6iisXS" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/cherry-blossom-NKicvKt6iisXS">via GIPHY</a></p>
 
 <!--
 **hoshikuro22/hoshikuro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
