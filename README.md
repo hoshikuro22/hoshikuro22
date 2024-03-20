@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![cherry blossom](https://github.com/hoshikuro22/hoshikuro22/assets/89105589/adcaed9a-8ae7-4099-ad9e-b089c575b7b8)
+![kafoi](https://github.com/hoshikuro22/hoshikuro22/assets/89105589/34a707d5-9044-488f-b50b-acc74b66b9ae)
+
 
 
 <!--
