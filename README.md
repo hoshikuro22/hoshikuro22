@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://giphy.com/embed/ErZ8hv5eO92JW" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://giphy.com/embed/ErZ8hv5eO92JW" width="480" height="271" allowFullScreen></img>
 <!--
 **hoshikuro22/hoshikuro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
