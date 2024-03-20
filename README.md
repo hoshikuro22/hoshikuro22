@@ -4,9 +4,6 @@
 ![kafoi](https://github.com/hoshikuro22/hoshikuro22/assets/89105589/dbd91c3c-6897-4e95-b67b-6b3b88066937)
 
 
-
-**hoshikuro22/hoshikuro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my life.
