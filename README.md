@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![kafoi](https://github.com/hoshikuro22/hoshikuro22/assets/89105589/dbd91c3c-6897-4e95-b67b-6b3b88066937)
+![kafoi](https://github.com/hoshikuro22/hoshikuro22/assets/89105589/dbd91c3c-6897-4e95-b67b-6b3b88066937)  ![image](https://github.com/hoshikuro22/hoshikuro22/assets/89105589/bb1370d7-fde8-4a65-8a32-97411c917e80)
+
 
 
 Here are some ideas to get you started:
