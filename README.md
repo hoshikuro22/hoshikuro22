@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![running girl blue hair](https://github.com/hoshikuro22/hoshikuro22/assets/89105589/21535b3e-44bf-4f8f-bd18-2b47d4475a6f)
 
+![cherry blossom](https://github.com/hoshikuro22/hoshikuro22/assets/89105589/adcaed9a-8ae7-4099-ad9e-b089c575b7b8)
 
 <!--
 **hoshikuro22/hoshikuro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
