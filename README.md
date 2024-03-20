@@ -3,7 +3,7 @@
 </h1>
 
 
-![kafoi](https://github.com/hoshikuro22/hoshikuro22/assets/89105589/dbd91c3c-6897-4e95-b67b-6b3b88066937)  
+<img src="https://giphy.com/embed/YS7BctOtlyed2" width="1000px">
 
 
 
