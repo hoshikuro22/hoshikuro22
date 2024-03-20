@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tipsy+Lagrosas!;+Gikapoy;+nakoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tipsy+Lagrosas!;+Gikapoy;+nakooooo;" />
 </h1>
 
 ![kafoi](https://github.com/hoshikuro22/hoshikuro22/assets/89105589/9a6bda1e-adb8-4085-a7cf-9681a8021c06)
