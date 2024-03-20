@@ -1,19 +1,20 @@
 ### Hi there 👋
 
-<div class="tenor-gif-embed" data-postid="16819148753809577075" data-share-method="host" data-aspect-ratio="0.811245" data-width="100%"><a href="https://tenor.com/view/nekomata-okayu-sus-okayu-look-anime-gif-16819148753809577075">Nekomata Okayu Sus GIF</a>from <a href="https://tenor.com/search/nekomata+okayu-gifs">Nekomata Okayu GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+![kafoi](https://github.com/hoshikuro22/hoshikuro22/assets/89105589/dbd91c3c-6897-4e95-b67b-6b3b88066937)
 
 
-<!--
+
 **hoshikuro22/hoshikuro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my life.
+- 🌱 I’m currently learning my life.
+- 👯 I’m looking to collaborate on my life.
+- 🤔 I’m looking for help with my life.
+- 💬 Ask me about my life.
+- 📫 How to reach me: My life.
+- 😄 Pronouns: my/life
+- ⚡ Fun fact: My Life.
+
