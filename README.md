@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
-![kafoi](https://github.com/hoshikuro22/hoshikuro22/assets/89105589/34a707d5-9044-488f-b50b-acc74b66b9ae)
-
+<div class="tenor-gif-embed" data-postid="16819148753809577075" data-share-method="host" data-aspect-ratio="0.811245" data-width="100%"><a href="https://tenor.com/view/nekomata-okayu-sus-okayu-look-anime-gif-16819148753809577075">Nekomata Okayu Sus GIF</a>from <a href="https://tenor.com/search/nekomata+okayu-gifs">Nekomata Okayu GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <!--
